@@ -30,8 +30,3 @@ I am a Lecturer (Assistant Professor) of the School of Computer Science at the U
 - E-mail: H.J.Chang@bham.ac.uk
 - Phone: +44(0)121 414 7264
 
-
-
-
-**I am always looking for fully motivated & talented PhD students!** 
-
