@@ -66,7 +66,7 @@ If you want to have your own personal academic page, we also provide a template 
 
 1. Repeat Step 1 and Setp 2.
 2. We prepare a template in _pages/personal_page/template.md
-3. Copy template.md and rename it as <your name>.md and following:
+3. Copy template.md and rename it as <your_name>.md and following:
 ```bash
 ---
 layout: default
