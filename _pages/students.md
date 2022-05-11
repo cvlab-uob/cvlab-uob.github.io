@@ -16,7 +16,7 @@ navigation_weight: 30
     <div class="row">
         <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/HJ.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="https://cs.ubc.ca/~kmyi/team/kmyi">
+            <h4><a href="/">
                 <b>Hyung Jin Chang</b><span class="hover-icon"><svg height="16" class="octicon octicon-link-external" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path></svg></span>
             </a></h4>
             <i>
@@ -55,8 +55,8 @@ navigation_weight: 30
     <div class="row">
         <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/Nora.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="http://www.inf.u-szeged.hu/~horanyi/">
-                <b>Nora Horanyi</b>.<span class="hover-icon"><svg height="16" class="octicon octicon-link-external" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path></svg></span>
+            <h4><a href="/team/nora">
+                <b>Nora Horanyi</b>
             </a></h4>
             <i>
             <b>Ph.D Student</b><br>
@@ -70,8 +70,8 @@ navigation_weight: 30
         </div>
             <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/Linfang.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="https://scholar.google.com/citations?user=GeE0cQ0AAAAJ">
-                <b>Linfang Zheng</b><span class="hover-icon"><svg height="16" class="octicon octicon-link-external" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path></svg></span>
+            <h4><a href="/team/linfang">
+                <b>Linfang Zheng</b>
             </a></h4>
             <i>
             <b>Ph.D Student (With SUST)</b><br>
@@ -88,8 +88,8 @@ navigation_weight: 30
     <div class="row">
         <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/Elden.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="https://eldentse.github.io/">
-                <b>Tze Ho Tse (Elden)</b><span class="hover-icon"><svg height="16" class="octicon octicon-link-external" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path></svg></span>
+            <h4><a href="/team/elden">
+                <b>Tze Ho Tse (Elden)</b>
             </a></h4>
             <i>
             <b>Ph.D Student</b><br>
@@ -103,8 +103,8 @@ navigation_weight: 30
         </div>
             <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/Hengfei.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="https://hengfei-wang.github.io//github.io/">
-                <b>Hengfei Wang</b><span class="hover-icon"><svg height="16" class="octicon octicon-link-external" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path></svg></span>
+            <h4><a href="/team/hengfei">
+                <b>Hengfei Wang</b>
             </a></h4>
             <i>
             <b>Ph.D Student</b><br>
@@ -121,8 +121,8 @@ navigation_weight: 30
     <div class="row">
         <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/Esha.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="https://eshadasgupta.github.io/portfolio/">
-                <b>Esha Dasgupta</b><span class="hover-icon"><svg height="16" class="octicon octicon-link-external" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path></svg></span>
+            <h4><a href="/team/esha">
+                <b>Esha Dasgupta</b>
             </a></h4>
             <i>
             <b>Ph.D Student</b><br>
@@ -136,8 +136,8 @@ navigation_weight: 30
         </div>
             <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/Zhongqun.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="https://zhongqunzhang.github.io/">
-                <b>Zhongqun Zhang</b><span class="hover-icon"><svg height="16" class="octicon octicon-link-external" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path></svg></span>
+            <h4><a href="/team/zhongqun">
+                <b>Zhongqun Zhang</b>
             </a></h4>
             <i>
             <b>Ph.D Student</b><br>
@@ -146,7 +146,7 @@ navigation_weight: 30
             <ul class="research-topics" style="overflow: hidden">
             <li>M.Sc. @ Tongji University</li>
             <li>3D Hand-Object Pose Estimation</li>
-            <li>Self-Supervised Learning</li>
+            <li>Limited Supervision</li>
             </ul>
         </div>
     </div>
@@ -154,8 +154,8 @@ navigation_weight: 30
     <div class="row">
         <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/Jonathan.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="">
-                <b>Jonathan Freer</b><span class="hover-icon"><svg height="16" class="octicon octicon-link-external" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path></svg></span>
+            <h4><a href="/team/jonathan">
+                <b>Jonathan Freer</b>
             </a></h4>
             <i>
             <b>Ph.D Student</b><br>
@@ -191,8 +191,8 @@ navigation_weight: 30
   <div class="row">
         <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/Yuqi.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="">
-                <b>Yuqi Hou</b><span class="hover-icon"><svg height="16" class="octicon octicon-link-external" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path></svg></span>
+            <h4><a href="/team/yuqi">
+                <b>Yuqi Hou</b>
             </a></h4>
             <i>
             <b>Research Assistant</b><br>
