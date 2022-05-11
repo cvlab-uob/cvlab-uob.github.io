@@ -70,8 +70,8 @@ If you want to have your own personal academic page, we also provide a template 
 ```bash
 ---
 layout: default
-permalink: /team/<your name>
-title: <your name>
+permalink: /team/<your_name>
+title: <your_name>
 ---
 ```
 4. Commit, push, and pull request. Your personal page will become available at https://cvlab-uob.github.io/team/your_name.
