@@ -2,21 +2,21 @@
 layout: page
 permalink: /research/
 title: Research
-description: Ongoing and completed research projects by HCVL Group
+description:
 nav: true
 navigation_weight: 15
 ---
-
-<!-- **Overview:** During my PhD, I was a **Machine Learning Research Intern** at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/">Microsoft Research Cambridge </a> (Summer 2019) where I was supervised by <a href="https://www.tschiatschek.net/">Dr. Sebastian Tschiatschek</a>. I was a **NLP Intern** at <a href="https://www.apple.com/uk/siri/">Apple Siri Cambridge</a> (Summer 2017) where I was supervised by <a href="https://www.linkedin.com/in/thomas-voice-a67b9ab9/">Dr. Thomas Voice</a>. -->
-
+            
 ---
 ## **Eye Gaze Tracking**
+
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/research/gaze.gif" title="Example Submodular Settings" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 
 **Eye gaze** is an important functional component in various applications, as it
 indicates human attentiveness and can thus be used to study their intentions
