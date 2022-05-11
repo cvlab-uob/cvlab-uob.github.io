@@ -65,13 +65,6 @@ Simply edit `_bibliography/papers.bib`. Following:
 If you want to have your own personal academic page, we also provide a template for you.
 
 1. Repeat Step 1 and Setp 2.
-2. We prepare a template in _pages/personal_page/template.md
-3. Copy template.md and rename it as <your_name>.md and following:
-```bash
----
-layout: default
-permalink: /team/<your_name>
-title: <your_name>
----
-```
-4. Commit, push, and pull request. Your personal page will become available at https://cvlab-uob.github.io/team/your_name.
+2. We prepare a template in _pages/personal_page/your_name.md
+3. Please save the images of your personal paper in assets/img/team/your_name.
+4. Chang, commit, push, and pull request. Your personal page will become available at https://cvlab-uob.github.io/team/your_name.
