@@ -10,10 +10,11 @@ For more about how to use Jekyll, check out [this tutorial](https://www.taniaras
 
 ### Step 1. Open with GitHub Desktop
 If you want to change the content, please following:
-1. Open code with GitHub Desktop. Please use the master branch.
-2. Make any changes to your webpage, commit, and push.
-3. Wait for a few minutes and let the action complete. You can see the progress in the Actions tab. If completed successfully, in addition to the `master` branch, your repository should also autonomously deploy the `gh-pages` branch.
-4. Finally, the website will be updated after finishing the deployment on both `master` and the `gh-pages` branch. The webpage will become available at https://cvlab-uob.github.io/.
+1. Fork our github Repo.
+2. Open code with GitHub Desktop. Please use the master branch.
+3. Make any changes to your webpage, commit, and push.
+4. Wait for a few minutes and let the action complete. You can see the progress in the Actions tab. If completed successfully, in addition to the `master` branch, your repository should also autonomously deploy the `gh-pages` branch.
+5. Finally, make a pull requests. The webpage will become available at https://cvlab-uob.github.io/.
 
 ### Step 2. Local setup
 If you want to pre-view the website when you edit it on your local computer, please following:
@@ -62,3 +63,15 @@ Simply edit `_bibliography/papers.bib`. Following:
 ```
 ### Step 4. Personal Page (for Group Members)
 If you want to have your own personal academic page, we also provide a template for you.
+
+1. Repeat Step 1 and Setp 2.
+2. We prepare a template in _pages/personal_page/template.md
+3. Copy template.md and rename to <your name>.md and following:
+```bash
+---
+layout: default
+permalink: /team/<your name>
+title: <your name>
+---
+```
+4. Commit, push, and pull request. Your personal page will become available at https://cvlab-uob.github.io/team/your_name.
