@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Dr. Hyung Jin Chang # the website title (if blank, full name will be used instead)
+title: HCVL@UoB # the website title
 first_name: Human-Centred Visual Learning Group
-middle_name: Hyung Jin Chang
+middle_name: Dr. Hyung Jin Chang
 last_name:
 email: H.J.Chang@bham.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"

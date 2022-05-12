@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: H.J.Chang
 permalink: /
 description: Assistant Professor @ <a href="https://www.ed.ac.uk" target="_blank">University of Birmingham</a> 
 
