@@ -40,11 +40,10 @@ After you are done, **commit** your final changes.
 
 ### Step 3. Features (for HJ)
 
-1. To change the About page in _config.yml and _pages/about.md
-2. To add the news in _news/xxx.md. ***Please note that each added News should be created in a new Markdown file.***
-3. To change the Research page in _pages/research.md. Images are in assets/img/research.
-4. To change the Team page in the _pages/student.md. Same as Openings, Teaching and Contact pages.
-5. Your publications page is generated automatically from your BibTex bibliography.
+1. To change the H.J.Chang page in _config.yml and _pages/about.md
+2. To change the Research page in _pages/research.md. Images are in assets/img/research.
+3. To change the Team page in the _pages/student.md. Same as Openings, Teaching and Contact pages.
+4. Your publications page is generated automatically from your BibTex bibliography.
 Simply edit `_bibliography/papers.bib`. Following:
 ```bash
 @inproceedings{tse2022collaborative,
