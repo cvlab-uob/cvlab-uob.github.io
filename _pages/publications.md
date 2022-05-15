@@ -12,8 +12,8 @@ Only recent publications are listed here. The full list can be found in my [Goog
 
 <div class="publications">
 
-<!-- <h2 class="year">preprints</h2>
-{% bibliography -f papers -q @*[preprint=true]* %} -->
+<!-- <h2 class="year">Journel</h2>
+{% bibliography -f papers -q @*[Journel=true]* %} -->
 
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
