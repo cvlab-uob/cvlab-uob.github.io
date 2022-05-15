@@ -27,6 +27,11 @@ layout: default
       <div class="social">
         <div class="contact-icons">
           {% include social.html %}
+          {% if page.twitter %}
+          <p>
+            <a class="twitter-timeline" data-width="600" data-height="300" href="https://twitter.com/CVLab_UoB?ref_src=twsrc%5Etfw">Tweets by CVLab_UoB</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          </p>
+          {% endif %}
         </div>
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
@@ -37,7 +42,6 @@ layout: default
     <div class="clearfix">
       {{ content }}
     </div>
-
     {% if page.news %}
       {% include news.html %}
     {% endif %}
