@@ -60,7 +60,7 @@ navigation_weight: 30
             </a></h4>
             <i>
             <b>Ph.D Student</b><br>
-            <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%6E%2E%68%6F%72%61%6E%79%69%40%70%67%72%2E%62%68%61%6D%2E%61%63%2E%75%6B">email</a><br>
+            <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%6E%2E%68%6F%72%61%6E%79%69%40%70%67%72%2E%62%68%61%6D%2E%61%63%2E%75%6B">Email address</a><br>
             </i>
             <ul class="research-topics" style="overflow: hidden">
             <li>M.Sc. @ University of Szeged</li>
