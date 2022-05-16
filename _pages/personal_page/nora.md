@@ -28,43 +28,5 @@ title: Nora Horanyi
     </div>
 </section>
 
-### **Biography**
 
-I am currently pursuing a Ph.D. degree in the Intelligent Robotics Laboratory under the supervision of Dr. Hyung Jin Chang and Prof. Ales Leonardis, at the School of Computer Science, College of Engineering and Physical Sciences , University of Birmingham.
 
-I completed my Master's thesis work in the Research Group on Visual Computation under the supervision of Prof. Zoltan Kato, at the Department of Image Processing and Computer Graphics, Institute of Informatics, Faculty of Science and Informatics, University of Szeged. I graduated as an Info-bionics Engineer M.Sc. from University of Szeged in the Faculty of Science and Informatics in January, 2018.
-
-I received my Bachelor of Science degree in Molecular Bionics Engineering from University of Szeged in January, 2016. Between 2013-2016 I was working as a student researcher in the Biological Research Center of Szeged in the Biological Barriers Research Group under the supervision of Dr. Maria Deli, at the Institute of Biophysics.
-
-<!-- ### **News**
-- [05/2021] I will be serving as one of the Technical Committee for [Visual Object Tracking (VOT) Challenge](https://www.votchallenge.net/vot2021/index.html) at ICCV 2021 -->
-
-### **Publications**
-
-<section>
-    <div class="publications">
-        <ol class="bibliography">
-            <li>
-            <div class="row">
-            <div class="col-sm-2 teaser">
-                <img src="../../assets/img/team/Elden/EldenCVPR22.jpg" class="teaser img-fluid z-depth-1">
-            </div>
-            <div id="li2021metadrive" class="col-sm-9">
-                <div class="title">MetaDrive: Composing Diverse Driving Scenarios for Generalizable Reinforcement Learning</div>
-                <div class="author">Quanyi Li*,Zhenghao Peng*,Lan Feng,Qihang Zhang,Zhenghai Xue,and Bolei Zhou
-                </div>
-                <div class="periodical">
-                <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (minor revision)</em>
-                (<b>TPAMI</b>), 2022
-                </div>
-                <div class="links">
-                <a href="https://arxiv.org/pdf/2109.12674" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
-                <a href="https://github.com/metadriverse/metadrive" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Code</a>
-                <a href="https://metadriverse.github.io/metadrive" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Website</a>
-                </div>
-            </div>
-            </div>
-            </li>
-        </ol>
-    </div>
-</section>
