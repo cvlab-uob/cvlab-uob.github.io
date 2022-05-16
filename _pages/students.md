@@ -55,12 +55,12 @@ navigation_weight: 30
     <div class="row">
         <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/Nora.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="/team/nora">
+            <h4><a href="/team/nora_horanyi">
                 <b>Nora Horanyi</b>
             </a></h4>
             <i>
             <b>Ph.D Student</b><br>
-            <a href="mailto:NXH840@student.bham.ac.uk" class="email" data-addr="KKaaqpMwICWe8TAlMLI=">NXH840@student.bham.ac.uk</a><br>
+            <style type="text/css">    span.ltrText {unicode-bidi: bidi-override; direction: rtl}    </style>    <p>E-mail: <span class="ltrText"> ku.ca.mahb.rgp@iynaroh.n</span>   </p><br>
             </i>
             <ul class="research-topics" style="overflow: hidden">
             <li>M.Sc. @ University of Szeged</li>
