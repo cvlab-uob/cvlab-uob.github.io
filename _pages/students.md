@@ -55,12 +55,12 @@ navigation_weight: 30
     <div class="row">
         <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/Nora.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="/team/nora_horanyi">
+            <h4><a href="https://horanyinora.github.io/">
                 <b>Nora Horanyi</b>
             </a></h4>
             <i>
             <b>Ph.D Student</b><br>
-            <style type="text/css">    span.ltrText {unicode-bidi: bidi-override; direction: rtl}    </style>    <p>E-mail: <span class="ltrText"> ku.ca.mahb.rgp@iynaroh.n</span>   </p><br>
+            <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%6E%2E%68%6F%72%61%6E%79%69%40%70%67%72%2E%62%68%61%6D%2E%61%63%2E%75%6B">email</a><br>
             </i>
             <ul class="research-topics" style="overflow: hidden">
             <li>M.Sc. @ University of Szeged</li>
