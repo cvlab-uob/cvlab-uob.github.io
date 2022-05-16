@@ -200,7 +200,7 @@ navigation_weight: 30
             </i>
             <ul class="research-topics" style="overflow: hidden">
             <li>M.Sc. @ University of Birmingham</li>
-            <li>Eye Gaze Trackinig </li>
+            <li>Eye Gaze Tracking </li>
             <li>Deep Learning</li>
             </ul>
         <!-- </div>
