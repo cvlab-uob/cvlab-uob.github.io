@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /team/nora
-title: Nora
+permalink: /team/nora_horanyi
+title: Nora Horanyi
 ---
 <section>
 <div class="row">
@@ -17,12 +17,11 @@ title: Nora
             <div class="desc float-left">
             <div class="social">
                 <div class="contact-icons">
-                <a href="mailto:ZXZ064@student.bham.ac.uk"><i class="fas fa-envelope"></i></a>
-                <!-- <a href="assets/pdf/cv.pdf"><i class="ai ai-cv"></i></a> -->
-                <a href="https://scholar.google.co.uk/citations?hl=zh-CN&user=B1mu6ugAAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-                <a href="https://github.com/ZhongqunZHANG" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-                <a href="https://twitter.com/Zhongqun_ZHANG" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
-                <!-- <a href="https://www.linkedin.com/in/zhenanf" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a> -->
+                <a href="mailto:n.horanyi@pgr.bham.ac.uk"><i class="fas fa-envelope"></i></a>
+                <a href="assets/pdf/Horanyi_resume.pdf"><i class="ai ai-cv"></i></a>
+                <a href="https://scholar.google.com/citations?user=jOV9l9kAAAAJ&hl=hu" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+                <a href="https://github.com/horanyinora" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+                < a href="https://www.linkedin.com/in/nora-horanyi/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a> 
                 </div>
                 </div>
             </div>
