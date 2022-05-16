@@ -21,7 +21,7 @@ title: Nora Horanyi
                 <a href="assets/pdf/Horanyi_resume.pdf"><i class="ai ai-cv"></i></a>
                 <a href="https://scholar.google.com/citations?user=jOV9l9kAAAAJ&hl=hu" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
                 <a href="https://github.com/horanyinora" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-                < a href="https://www.linkedin.com/in/nora-horanyi/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a> 
+                <a href="https://www.linkedin.com/in/nora-horanyi/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a> 
                 </div>
                 </div>
             </div>
