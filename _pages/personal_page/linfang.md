@@ -59,8 +59,8 @@ My topic is about robotic AI, in particular on understanding the robotic interac
                 </div>
                 <div class="links">
                 <a href="assets/pdf/TP-AE.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
-                <!-- <a href="" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Code</a> -->
-                <!-- <a href="" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Website</a> -->
+                <a href="https://github.com/Lynne-Zheng-Linfang/TP-AE_Object_tracking" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Code</a>
+                <a href="https://lynne-zheng-linfang.github.io/TP-AE-page/" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Website</a>
                 </div>
             </div>
             </div>
