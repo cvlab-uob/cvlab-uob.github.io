@@ -17,11 +17,11 @@ title: Linfang
             <div class="desc float-left">
             <div class="social">
                 <div class="contact-icons">
-                <a href="mailto:ZXZ064@student.bham.ac.uk"><i class="fas fa-envelope"></i></a>
+                <a href="mailto:lxz948@student.bham.ac.uk"><i class="fas fa-envelope"></i></a>
                 <!-- <a href="assets/pdf/cv.pdf"><i class="ai ai-cv"></i></a> -->
-                <a href="https://scholar.google.co.uk/citations?hl=zh-CN&user=B1mu6ugAAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-                <a href="https://github.com/ZhongqunZHANG" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-                <a href="https://twitter.com/Zhongqun_ZHANG" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
+                <a href="https://scholar.google.com/citations?hl=zh-CN&user=GeE0cQ0AAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+                <a href="https://github.com/Lynne-Zheng-Linfang" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+                <!-- <a href="https://twitter.com/Zhongqun_ZHANG" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a> -->
                 <!-- <a href="https://www.linkedin.com/in/zhenanf" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a> -->
                 </div>
                 </div>
@@ -32,9 +32,9 @@ title: Linfang
 
 ### **Biography**
 
-I'm a Ph.D. student at the Department of Computer Science, University of Birmingham, supervised by Dr. Hyung Jin Chang and [Prof. Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/). Prior to the U.K., I obtained my M.Eng. degree from [Tongji University](https://www.tongji.edu.cn/), where I was supervised by [Prof. Qirong Tang](http://robotics-tongji.org/members/qtang) and I was a member of [the Laboratory of Robotics and Multi-Body System](http://robotics-tongji.org/).
+I'm a Ph.D. student at the Department of Computer Science, University of Birmingham, supervised by Dr. Hyung Jin Chang and [Prof. Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/). Prior to the U.K., I obtained my M.Eng. degree from [Harbin Institute of Technology](http://en.hit.edu.cn/).
 
-My topic is about Human-centred AI, in particular on understanding the human-object interaction within 3D environments, including but not limited to: 3D hand-object reconstruction, 6D object pose estimation, gaze estimation and visual object tracking. This is an intersection area between computer vision, machine learning, robotics and human-computer interactions. Besides, I am broadly interested in AR/VR Systems, Human Digitalization, Visual SLAM, and Swarm Robots.
+My topic is about robotic AI, in particular on understanding the robotic interaction within 3D environments, including but not limited to: 6D object pose estimation and visual object tracking. This is an intersection area between computer vision, machine learning, robotics. 
 
 <!-- ### **News**
 - [05/2021] I will be serving as one of the Technical Committee for [Visual Object Tracking (VOT) Challenge](https://www.votchallenge.net/vot2021/index.html) at ICCV 2021 -->
@@ -47,20 +47,46 @@ My topic is about Human-centred AI, in particular on understanding the human-obj
             <li>
             <div class="row">
             <div class="col-sm-2 teaser">
-                <img src="../../assets/img/team/Elden/EldenCVPR22.jpg" class="teaser img-fluid z-depth-1">
+                <img src="../../assets/img/team/Linfang/ICRA22_teaser.png" class="teaser img-fluid z-depth-1">
             </div>
             <div id="li2021metadrive" class="col-sm-9">
-                <div class="title">MetaDrive: Composing Diverse Driving Scenarios for Generalizable Reinforcement Learning</div>
-                <div class="author">Quanyi Li*,Zhenghao Peng*,Lan Feng,Qihang Zhang,Zhenghai Xue,and Bolei Zhou
+                <div class="title">TP-AE: Temporally Primed 6D Object Pose Tracking with Auto-Encoders</div>
+                <div class="author">Linfang Zheng, Ales Leonardis, Tze Ho Elden Tse, Nora Horanyi, Hua Chen, Wei Zhang and Hyung Jin Chang
                 </div>
                 <div class="periodical">
-                <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (minor revision)</em>
-                (<b>TPAMI</b>), 2022
+                <em>IEEE International Conference on Robotics and Automation</em>
+                (<b>ICRA</b>), 2022
                 </div>
                 <div class="links">
-                <a href="https://arxiv.org/pdf/2109.12674" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
-                <a href="https://github.com/metadriverse/metadrive" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Code</a>
-                <a href="https://metadriverse.github.io/metadrive" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Website</a>
+                <a href="assets/pdf/TP-AE.pdf" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
+                <a href="https://github.com/Lynne-Zheng-Linfang/TP-AE_Object_tracking" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Code</a>
+                <a href="https://lynne-zheng-linfang.github.io/TP-AE-page/" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Website</a>
+                </div>
+            </div>
+            </div>
+            </li>
+        </ol>
+    </div>
+    <div class="publications">
+        <ol class="bibliography">
+            <li>
+            <div class="row">
+            <div class="col-sm-2 teaser">
+                <img src="../../assets/img/team/Linfang/Q-Learning.png" class="teaser img-fluid z-depth-1">
+            </div>
+            <div id="li2021metadrive" class="col-sm-9">
+                <div class="title">Optimal Control Inspired Q-Learning for Switched Linear Systems
+                </div>
+                <div class="author">Hua Chen， Linfang Zheng, Wei Zhang
+                </div>
+                <div class="periodical">
+                <em>American Control Conference</em>
+                (<b>ACC</b>), 2020
+                </div>
+                <div class="links">
+                <a href="https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=osu1543321543377163&disposition=inline" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
+                <!-- <a href="" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Code</a> -->
+                <!-- <a href="" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Website</a> -->
                 </div>
             </div>
             </div>
