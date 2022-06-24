@@ -20,7 +20,7 @@ navigation_weight: 30
                 <b>Hyung Jin Chang</b>
             </a></h4>
             <i>
-            <b>Assistant Professor</b><br>
+            <b>Associate Professor</b><br>
             <a href="mailto:H.J.Chang@bham.ac.uk" class="email" data-addr="KKaaqpMwICWe8TAlMLI=">H.J.Chang@bham.ac.uk</a><br>
             </i>
             <ul class="research-topics" style="overflow: hidden">
