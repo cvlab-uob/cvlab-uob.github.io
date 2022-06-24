@@ -38,7 +38,7 @@ My topic is about Human-centred AI, in particular on understanding the human-obj
 ### **News**
 - [05/2021] I will be serving as one of the Technical Committee for [Visual Object Tracking (VOT) Challenge](https://www.votchallenge.net/vot2021/index.html) at ICCV 2021
 
-### **Publications**
+<!-- ### **Publications**
 
 <section>
     <div class="publications">
@@ -46,7 +46,6 @@ My topic is about Human-centred AI, in particular on understanding the human-obj
             <li>
             <div class="row">
             <div class="col-sm-2 teaser">
-                <!-- <abbr class="badge">TPAMI</abbr> -->
                 <img src="../../assets/img/team/Elden/EldenCVPR22.jpg" class="teaser img-fluid z-depth-1">
             </div>
             <div id="li2021metadrive" class="col-sm-9">
@@ -67,4 +66,4 @@ My topic is about Human-centred AI, in particular on understanding the human-obj
             </li>
         </ol>
     </div>
-</section>
+</section> -->
