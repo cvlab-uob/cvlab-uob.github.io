@@ -17,11 +17,11 @@ title: Esha
             <div class="desc float-left">
             <div class="social">
                 <div class="contact-icons">
-                <a href="mailto:ZXZ064@student.bham.ac.uk"><i class="fas fa-envelope"></i></a>
+                <a href=""><i class="fas fa-envelope"></i></a>
                 <!-- <a href="assets/pdf/cv.pdf"><i class="ai ai-cv"></i></a> -->
-                <a href="https://scholar.google.co.uk/citations?hl=zh-CN&user=B1mu6ugAAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-                <a href="https://github.com/ZhongqunZHANG" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-                <a href="https://twitter.com/Zhongqun_ZHANG" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
+                <a href="" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+                <a href="" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+                <a href="" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
                 <!-- <a href="https://www.linkedin.com/in/zhenanf" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a> -->
                 </div>
                 </div>
@@ -37,7 +37,7 @@ I am currently a Ph.D. student under the supervision of Dr. Hyung Jin Chang and 
 <!-- ### **News**
 - [05/2021] I will be serving as one of the Technical Committee for [Visual Object Tracking (VOT) Challenge](https://www.votchallenge.net/vot2021/index.html) at ICCV 2021 -->
 
-### **Publications**
+<!-- ### **Publications**
 
 <section>
     <div class="publications">
@@ -65,4 +65,4 @@ I am currently a Ph.D. student under the supervision of Dr. Hyung Jin Chang and 
             </li>
         </ol>
     </div>
-</section>
+</section> -->

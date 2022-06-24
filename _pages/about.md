@@ -2,7 +2,7 @@
 layout: about
 title: H.J.Chang
 permalink: /
-description: Assistant Professor @ <a href="https://www.ed.ac.uk" target="_blank">University of Birmingham</a> 
+description: Associate Professor @ <a href="https://www.ed.ac.uk" target="_blank">University of Birmingham</a> 
 
 profile:
   align: right
@@ -21,7 +21,7 @@ navigation_weight: 10
 
 ### **Biography**
 
-I am a Lecturer (Assistant Professor) of the School of Computer Science at the University of Birmingham and a ***Turing Fellow of the Alan Turing Institute***. My research interests are focused on human-centred visual learning, especially in application to human-robot interaction. Computer vision and machine learning including deep learning are my expertise research area.
+I am a Associate Professor of the School of Computer Science at the University of Birmingham and a ***Turing Fellow of the Alan Turing Institute***. My research interests are focused on human-centred visual learning, especially in application to human-robot interaction. Computer vision and machine learning including deep learning are my expertise research area.
 
 **I am always looking for fully motivated & talented PhD students!** 
 

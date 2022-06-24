@@ -8,7 +8,7 @@ nav: true
 navigation_weight: 20
 ---
 
-Only recent publications are listed here. The full list can be found in my [Google Sholar Link](https://scholar.google.com/citations?user=3TggrEkAAAAJ&hl=en).
+Only recent publications are listed here. The full list can be found in my [Google Scholar Link](https://scholar.google.com/citations?user=3TggrEkAAAAJ&hl=en).
 
 <div class="publications">
 

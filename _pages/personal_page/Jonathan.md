@@ -17,11 +17,11 @@ title: Jonathan
             <div class="desc float-left">
             <div class="social">
                 <div class="contact-icons">
-                <a href="mailto:ZXZ064@student.bham.ac.uk"><i class="fas fa-envelope"></i></a>
+                <a href=""><i class="fas fa-envelope"></i></a>
                 <!-- <a href="assets/pdf/cv.pdf"><i class="ai ai-cv"></i></a> -->
-                <a href="https://scholar.google.co.uk/citations?hl=zh-CN&user=B1mu6ugAAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-                <a href="https://github.com/ZhongqunZHANG" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-                <a href="https://twitter.com/Zhongqun_ZHANG" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
+                <a href="" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+                <a href="" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+                <a href="" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
                 <!-- <a href="https://www.linkedin.com/in/zhenanf" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a> -->
                 </div>
                 </div>
@@ -30,16 +30,16 @@ title: Jonathan
     </div>
 </section>
 
-### **Biography**
+<!-- ### **Biography**
 
 I'm a Ph.D. student at the Department of Computer Science, University of Birmingham, supervised by Dr. Hyung Jin Chang and [Prof. Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/). Prior to the U.K., I obtained my M.Eng. degree from [Tongji University](https://www.tongji.edu.cn/), where I was supervised by [Prof. Qirong Tang](http://robotics-tongji.org/members/qtang) and I was a member of [the Laboratory of Robotics and Multi-Body System](http://robotics-tongji.org/).
 
-My topic is about Human-centred AI, in particular on understanding the human-object interaction within 3D environments, including but not limited to: 3D hand-object reconstruction, 6D object pose estimation, gaze estimation and visual object tracking. This is an intersection area between computer vision, machine learning, robotics and human-computer interactions. Besides, I am broadly interested in AR/VR Systems, Human Digitalization, Visual SLAM, and Swarm Robots.
+My topic is about Human-centred AI, in particular on understanding the human-object interaction within 3D environments, including but not limited to: 3D hand-object reconstruction, 6D object pose estimation, gaze estimation and visual object tracking. This is an intersection area between computer vision, machine learning, robotics and human-computer interactions. Besides, I am broadly interested in AR/VR Systems, Human Digitalization, Visual SLAM, and Swarm Robots. -->
 
 <!-- ### **News**
 - [05/2021] I will be serving as one of the Technical Committee for [Visual Object Tracking (VOT) Challenge](https://www.votchallenge.net/vot2021/index.html) at ICCV 2021 -->
 
-### **Publications**
+<!-- ### **Publications**
 
 <section>
     <div class="publications">
@@ -67,4 +67,4 @@ My topic is about Human-centred AI, in particular on understanding the human-obj
             </li>
         </ol>
     </div>
-</section>
+</section> -->
