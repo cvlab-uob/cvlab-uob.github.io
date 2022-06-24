@@ -103,7 +103,7 @@ navigation_weight: 30
         </div>
             <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/Hengfei.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="/team/hengfei">
+            <h4><a href="https://hengfei-wang.github.io//github.io/">
                 <b>Hengfei Wang</b>
             </a></h4>
             <i>
@@ -121,7 +121,7 @@ navigation_weight: 30
     <div class="row">
         <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/Esha.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="/team/esha">
+            <h4><a href="https://eshadasgupta.github.io/portfolio/">
                 <b>Esha Dasgupta</b>
             </a></h4>
             <i>
