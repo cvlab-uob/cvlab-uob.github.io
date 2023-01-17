@@ -32,12 +32,12 @@ title: Yuqi
 
 ### **Biography**
 
-I'm a Ph.D. student at the Department of Computer Science, University of Birmingham, supervised by [Dr. Hyung Jin Chang](https://hyungjinchang.wordpress.com/) and [Dr. Jian Bo Jiao](https://jianbojiao.com/). Prior to the U.K., I obtained my MSc Data Science from [University of Birmingham](https://www.birmingham.ac.uk)and my BSc Information Engineering from [Nanjing University of Information Science & Technology](https://www.nuist.edu.cn/).
+I'm a Ph.D. student at the Department of Computer Science, University of Birmingham, supervised by [Dr. Hyung Jin Chang](https://hyungjinchang.wordpress.com/) and [Dr. Jian Bo Jiao](https://jianbojiao.com/). Prior to it, I obtained my MSc Data Science from [University of Birmingham](https://www.birmingham.ac.uk)and my BSc Information Engineering from [Nanjing University of Information Science & Technology](https://www.nuist.edu.cn/).
 
-My topic is about Human-centred AI, in particular on understanding the human-object interaction within 3D environments, including but not limited to: 3D hand-object reconstruction, 6D object pose estimation, gaze estimation and visual object tracking. This is an intersection area between computer vision, machine learning, robotics and human-computer interactions. Besides, I am broadly interested in AR/VR Systems, Human Digitalization, Visual SLAM, and Swarm Robots.
+I focus on human eyes and their movements and work towards estimating gaze and beyond from visual data.  This is an intersection area between computer vision, machine learning, robotics and human-computer interactions. 
 
-<!-- ### **News**
-- [01/2023] One paper accepted by ETRA:  -->
+### **News**
+- [01/2023] One paper accepted by ETRA: G-DAIC: A Gaze Initialized Framework for Description and Aesthetic-Based Image Cropping
 
 ### **Publications**
 
