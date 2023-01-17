@@ -32,12 +32,12 @@ title: Yuqi
 
 ### **Biography**
 
-I'm a Ph.D. student at the Department of Computer Science, University of Birmingham, supervised by Dr. Hyung Jin Chang and [Prof. Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/). Prior to the U.K., I obtained my M.Eng. degree from [Tongji University](https://www.tongji.edu.cn/), where I was supervised by [Prof. Qirong Tang](http://robotics-tongji.org/members/qtang) and I was a member of [the Laboratory of Robotics and Multi-Body System](http://robotics-tongji.org/).
+I'm a Ph.D. student at the Department of Computer Science, University of Birmingham, supervised by [Dr. Hyung Jin Chang](https://hyungjinchang.wordpress.com/) and [Dr. Jian Bo Jiao](https://jianbojiao.com/). Prior to the U.K., I obtained my MSc Data Science from [University of Birmingham] (https://www.birmingham.ac.uk)and my BSc Information Engineering from [Nanjing University of Information Science & Technology](https://www.nuist.edu.cn/).
 
 My topic is about Human-centred AI, in particular on understanding the human-object interaction within 3D environments, including but not limited to: 3D hand-object reconstruction, 6D object pose estimation, gaze estimation and visual object tracking. This is an intersection area between computer vision, machine learning, robotics and human-computer interactions. Besides, I am broadly interested in AR/VR Systems, Human Digitalization, Visual SLAM, and Swarm Robots.
 
 <!-- ### **News**
-- [05/2021] I will be serving as one of the Technical Committee for [Visual Object Tracking (VOT) Challenge](https://www.votchallenge.net/vot2021/index.html) at ICCV 2021 -->
+- [01/2023] One paper accepted by ETRA:  -->
 
 ### **Publications**
 
@@ -50,17 +50,17 @@ My topic is about Human-centred AI, in particular on understanding the human-obj
                 <img src="../../assets/img/team/Elden/EldenCVPR22.jpg" class="teaser img-fluid z-depth-1">
             </div>
             <div id="li2021metadrive" class="col-sm-9">
-                <div class="title">MetaDrive: Composing Diverse Driving Scenarios for Generalizable Reinforcement Learning</div>
-                <div class="author">Quanyi Li*,Zhenghao Peng*,Lan Feng,Qihang Zhang,Zhenghai Xue,and Bolei Zhou
+                <div class="title">G-DAIC: A Gaze Initialized Framework for Description and Aesthetic-Based Image Cropping</div>
+                <div class="author">Nora Horanyi, Yuqi Hou, Ales Leonardis, Hyung Jin Chang
                 </div>
                 <div class="periodical">
-                <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (minor revision)</em>
-                (<b>TPAMI</b>), 2022
+                <em>Conference: The 2023 ACM Symposium of Eye Tracking Research & Applications(ETRA)At: Tübingen, Germany</em>
+                (<b>TPAMI</b>), 2023
                 </div>
                 <div class="links">
-                <a href="https://arxiv.org/pdf/2109.12674" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
+<!--                 <a href="https://arxiv.org/pdf/2109.12674" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">PDF</a>
                 <a href="https://github.com/metadriverse/metadrive" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Code</a>
-                <a href="https://metadriverse.github.io/metadrive" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Website</a>
+                <a href="https://metadriverse.github.io/metadrive" class="btn btn-sm z-depth-0 waves-effect waves-light" role="button" target="_blank">Website</a> -->
                 </div>
             </div>
             </div>
