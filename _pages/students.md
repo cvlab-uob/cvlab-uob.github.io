@@ -89,15 +89,15 @@ navigation_weight: 30
         <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/Elden.jpg" class="img-responsive" width="40%" style="float: left">
             <h4><a href="/team/elden">
-                <b>Tze Ho Tse (Elden)</b>
+                <b>Tze Ho Elden Tse</b>
             </a></h4>
             <i>
             <b>Ph.D Student</b><br>
             <a href="mailto:TXT994@student.bham.ac.uk" class="email" data-addr="KKaaqpMwICWe8TAlMLI=">TXT994@student.bham.ac.uk</a><br>
             </i>
             <ul class="research-topics" style="overflow: hidden">
-            <li>M.Sc. @ University of Oxford</li>
-            <li>Hand Pose Estimation</li>
+            <li>M.Eng. @ University of Oxford</li>
+            <li>3D Hand-Object Reconstruction</li>
             <li>Graph Neural Network </li>
             </ul>
         </div>
