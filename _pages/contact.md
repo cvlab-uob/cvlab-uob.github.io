@@ -9,14 +9,13 @@ navigation_weight: 70
 Dr Hyung Jin Chang (장형진 張亨鎭)
 
 [Intelligent Robotics Lab](http://www.cs.bham.ac.uk/research/groupings/robotics/).
-Room 107
-School of Computer Science
+Room 137
+Murray Learning Centre
 University of Birmingham
 Birmingham, B15 2TT
 United Kingdom
 
 E-mail: H.J.Chang@bham.ac.uk
-Tel: +44(0)121 414 7264
 
 Office hour (online) for Spring 2022: Monday 12:30-1:30 pm & Thursday 12-1 pm (UK time)
 

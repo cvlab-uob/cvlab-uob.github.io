@@ -15,7 +15,7 @@ navigation_weight: 30
   <h4><strong>Staff</strong></h4>
     <div class="row">
         <div class="col-sm-6 clearfix">
-            <img src="/assets/img/team/HJ.jpg" class="img-responsive" width="40%" style="float: left">
+            <img src="/assets/img/team/HJ.png" class="img-responsive" width="40%" style="float: left; border-radius: 170px;">
             <h4><a href="/">
                 <b>Hyung Jin Chang</b>
             </a></h4>

@@ -6,7 +6,7 @@ description: Associate Professor @ <a href="https://www.ed.ac.uk" target="_blank
 
 profile:
   align: right
-  image: team/HJ.jpg
+  image: team/HJ.png
   address: <!-- >
     <p>Informatics Forum</p>
     <p>10 Crichton Street</p>
@@ -27,9 +27,8 @@ I am a Associate Professor of the School of Computer Science at the University o
 
 ### **Contact Me**
 
-- Office: Room 107, School of Computer Science
+- Office: Room 137, Murray Learning Centre
 - E-mail: H.J.Chang@bham.ac.uk
-- Phone: +44(0)121 414 7264
 
 ### **News**
 

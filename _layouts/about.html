@@ -16,8 +16,8 @@ layout: default
   <article>
     {% if page.profile %}
     <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-      <img src="/assets/img/team/HJ.jpg" class="img-responsive" width="40%" style="float: left">
-      <!-- <img style="width: 250px;border-radius: 170px" src="/assets/img/team/HJ.jpg"> -->
+      <img src="/assets/img/team/HJ.png" class="img-responsive" width="40%" style="float: left; border-radius: 170px;">
+      <!-- <img style="width: 250px;border-radius: 170px" src="/assets/img/team/HJ.png"> -->
       {% if page.profile.address %}
         <div class="address">
           {{ page.profile.address }}
@@ -27,11 +27,6 @@ layout: default
       <div class="social">
         <div class="contact-icons">
           {% include social.html %}
-          {% if page.twitter %}
-          <p>
-            <a class="twitter-timeline" data-width="600" data-height="350" href="https://twitter.com/CVLab_UoB?ref_src=twsrc%5Etfw">Tweets by CVLab_UoB</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-          </p>
-          {% endif %}
         </div>
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
