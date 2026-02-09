@@ -200,11 +200,32 @@ blockquote {
 
 .news table td {
   font-size: 1rem;
-  color: var(--global-text-color);
+  color: #111;
+  line-height: 1.3;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
 }
 
 .news table th {
-  color: var(--global-text-color);
+  color: #808080;
+  font-weight: 700;
+  white-space: nowrap;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+}
+
+.news table td a {
+  color: inherit;
+}
+
+.news .news-conf {
+  color: red;
+  font-weight: 700;
+}
+
+.news .news-count {
+  color: #111;
+  font-weight: 700;
 }
 
 // Social (bottom)

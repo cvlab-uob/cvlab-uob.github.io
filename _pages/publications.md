@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: 
-years: [2022, 2021, 2020, 2019, 2018, 2017, 2016]
+years: []
 nav: true
 navigation_weight: 20
 ---
@@ -15,9 +15,10 @@ Only recent publications are listed here. The full list can be found in my [Goog
 <!-- <h2 class="year">Journel</h2>
 {% bibliography -f papers -q @*[Journel=true]* %} -->
 
-{% for y in page.years %}
+{% assign years = (2002..2026) | reverse %}
+{% for y in years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}} && preprint!=true]* %}
+  {% bibliography -f papers -q @*[year={{y}} && preprint!=true && supplementary!=true]* %}
 {% endfor %}
 
 </div>
