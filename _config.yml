@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: HCVL@UoB # the website title
-first_name: Human-Centred Visual Learning Group
+first_name: Human-Centred Visual Learning Lab
 middle_name: Dr. Hyung Jin Chang
 last_name:
 email: H.J.Chang@bham.ac.uk
@@ -104,7 +104,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 5
+news_limit: 10
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

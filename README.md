@@ -1,4 +1,4 @@
-# Human-Centred Visual Learning Group Website
+# Human-Centred Visual Learning Lab Website
 
 This is the website of our academic research group at the University of Birmingham.
 

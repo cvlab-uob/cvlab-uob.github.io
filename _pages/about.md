@@ -2,7 +2,7 @@
 layout: about
 title: H.J.Chang
 permalink: /
-description: Associate Professor @ <a href="https://www.ed.ac.uk" target="_blank">University of Birmingham</a> 
+description: Associate Professor @ <a href="https://www.birmingham.ac.uk/" target="_blank">University of Birmingham</a> 
 
 profile:
   align: right
@@ -19,28 +19,11 @@ twitter: true # show twitter
 navigation_weight: 10
 ---
 
-### **Biography**
+I am on sabbatical for Oct 2025-Sep 2026 and working at ***[Microsoft](https://www.microsoft.com/)***
+(I am still accepting PhD students starting in 2026).
 
-I am a Associate Professor of the School of Computer Science at the University of Birmingham and a ***Turing Fellow of the Alan Turing Institute***. My research interests are focused on human-centred visual learning, especially in application to human-robot interaction. Computer vision and machine learning including deep learning are my expertise research area.
+I am an Associate Professor of the [School of Computer Science](https://www.birmingham.ac.uk/schools/computer-science) at the [University of Birmingham](https://www.birmingham.ac.uk/) and leading the **Human-Centred Visual Learning Lab (HCVL)**. I am also affiliated to the [Institute of Data and Artificial Intelligence (IDAI)](https://www.birmingham.ac.uk/research/data-science) and [Birmingham Robotics Institute](https://www.birmingham.ac.uk/research/activity/engineering/robotics), and I was the University Turing Fellow of the [Alan Turing Institute](https://www.turing.ac.uk/). Before joining the University of Birmingham, he was a Research Associate at [Imperial College London](https://www.imperial.ac.uk/) and received his BSc and PhD degrees from [Seoul National University](https://en.snu.ac.kr/). 
+
+My research focuses on Human-Centred Artificial Intelligence, with a particular emphasis on enabling machines to understand, learn from, and interact with humans in the physical world. I develop methods at the intersection of computer vision, machine learning, and robotics, aiming to advance technologies such as human behaviour understanding, gaze and attention modelling, and human-robot interaction. My work seeks to build AI systems that can perceive and reason about people more naturally, ultimately enabling more intuitive and effective collaboration between humans and intelligent machines.
 
 **I am always looking for fully motivated & talented PhD students!** 
-
-### **Contact Me**
-
-- Office: Room 137, Murray Learning Centre
-- E-mail: H.J.Chang@bham.ac.uk
-
-### **News**
-
-- **<font color=grey>Jun 2022</font>** **-** I will co-organise Eye Gaze workshop ***[“GAZE2022: The 4th International Workshop on Gaze Estimation and Prediction in the Wild”](https://gazeworkshop.github.io/2022/)*** at **<font color=red>CVPR 2022</font>**.
-- **<font color=grey>Mar 2022</font>** **-** **One paper** is accepted to **<font color=red>CVPR 2022</font>**.
-- **<font color=grey>Feb 2022</font>** **-** **One paper** is accepted to **<font color=red>Pattern Recognition</font>**.
-- **<font color=grey>Feb 2022</font>** **-** **One paper** is accepted to **<font color=red>ICRA 2022</font>**.
-- **<font color=grey>Oct 2021</font>** **-** I am appointed as **<font color=purple>Turing Fellow</font>** of the **<font color=green>Alan Turing Institute</font>**.
-- **<font color=grey>Oct 2021</font>** **-** **One paper** is accepted to **<font color=red>WACV 2022</font>**.
-- **<font color=grey>May 2021 </font>** **-** **One paper** is accepted to **<font color=red>MICCAI 2021</font>**.
-- **<font color=grey>Mar 2021 </font>** **-** **Four papers** is accepted to **<font color=red>CVPR 2021</font>** (1 Oral + 3 Poster).
-- **<font color=grey>Mar 2021</font>** **-** I will co-organise Eye Gaze workshop ***[“VOT2021 Challenge”](https://www.votchallenge.net/vot2021/)*** at **<font color=red>ICCV 2021</font>**.
-- **<font color=grey>Dec 2020</font>** **-** I will co-organise Eye Gaze workshop ***[GAZE 2021: The 3rd International Workshop on Gaze Estimation and Prediction in the Wild ](https://gazeworkshop.github.io/2021/)*** at **<font color=red>CVPR 2021</font>**.
-- **<font color=grey>Dec 2020  </font>** **-** **Two papers** is accepted to **<font color=red>AAAI 2021</font>**.
-- **<font color=grey>Dec 2020  </font>** **-** I will be serving as **Senior Program Chair (Area Chair)** for **<font color=red>AAAI 2021</font>**.

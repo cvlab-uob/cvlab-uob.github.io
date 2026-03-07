@@ -16,7 +16,7 @@ layout: default
   <article>
     {% if page.profile %}
     <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-      <img src="/assets/img/team/HJ.png" class="img-responsive" width="40%" style="float: left; border-radius: 170px;">
+      <img src="/assets/img/team/HJ.png" class="img-responsive" width="40%" style="float: left; border-radius: 170px; box-shadow: 0 10px 25px rgba(0,0,0,0.35), 0 4px 10px rgba(0,0,0,0.15); transition: all 0.3s ease;" onmouseover="this.style.boxShadow='0 15px 30px rgba(0,0,0,0.4), 0 6px 15px rgba(0,0,0,0.2); transform: translateY(-5px);'" onmouseout="this.style.boxShadow='0 10px 25px rgba(0,0,0,0.35), 0 4px 10px rgba(0,0,0,0.15); transform: translateY(0);'">
       <!-- <img style="width: 250px;border-radius: 170px" src="/assets/img/team/HJ.png"> -->
       {% if page.profile.address %}
         <div class="address">
