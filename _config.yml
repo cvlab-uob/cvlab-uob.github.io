@@ -114,6 +114,11 @@ news_limit: 10
 markdown: kramdown
 highlighter: rouge
 highlight_theme: github  # https://github.com/jwarby/jekyll-pygments-themes
+sass:
+  silence_deprecations:
+    - import
+    - global-builtin
+    - color-functions
 kramdown:
   input: GFM
   syntax_highlighter_opts:

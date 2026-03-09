@@ -8,13 +8,13 @@
     {% if site.data.venues[entry.abbr] %}
       <abbr class="badge" ><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>
     {% else %}
-      {% if entry.type == "phdthesis" %}
+      {% if entry.abbr == "Patent" %}
+        <abbr class="badge" style="background-color:#6a1b9a">{{entry.abbr}}</abbr>
+      {% elsif entry.type == "phdthesis" %}
          <abbr class="badge" style="background-color:#3949ab">{{entry.abbr}}</abbr>
-      {% endif %}
-      {% if entry.type == "inproceedings" %}
+      {% elsif entry.type == "inproceedings" %}
           <abbr class="badge" style="background-color:#00897b">{{entry.abbr}}</abbr>
-      {% endif %}
-      {% if entry.type == "article" %}
+      {% elsif entry.type == "article" %}
         {% if entry.preprint %}
           <abbr class="badge" style="background-color:#3949ab">{{entry.abbr}}</abbr>
         {% else %}
@@ -138,6 +138,13 @@
       <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Poster</a>
       {% endif %}
     {% endif %}
+    {% if entry.extabs %}
+      {% if entry.extabs contains '://' %}
+      <a href="{{ entry.extabs }}" class="btn btn-sm z-depth-0" role="button" target="_blank">ExtAbs</a>
+      {% else %}
+      <a href="{{ entry.extabs | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">ExtAbs</a>
+      {% endif %}
+    {% endif %}
     {% if entry.slides %}
       {% if entry.slides contains '://' %}
       <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Slides</a>
@@ -146,7 +153,21 @@
       {% endif %}
     {% endif %}
     {% if entry.website %}
-      <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Website</a>
+      <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Project Page</a>
+    {% endif %}
+    {% if entry.dataset %}
+      {% if entry.dataset contains '://' %}
+      <a href="{{ entry.dataset }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Dataset</a>
+      {% else %}
+      <a href="{{ entry.dataset | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Dataset</a>
+      {% endif %}
+    {% endif %}
+    {% if entry.binary %}
+      {% if entry.binary contains '://' %}
+      <a href="{{ entry.binary }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Binary</a>
+      {% else %}
+      <a href="{{ entry.binary | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Binary</a>
+      {% endif %}
     {% endif %}
     </div>
 
