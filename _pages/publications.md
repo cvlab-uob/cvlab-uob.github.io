@@ -15,10 +15,14 @@ Only recent publications are listed here. The full list can be found in my [Goog
 <!-- <h2 class="year">Journel</h2>
 {% bibliography -f papers -q @*[Journel=true]* %} -->
 
-{% assign years = (2006..2026) | reverse %}
+{% assign current_year = 'now' | date: "%Y" | plus: 0 %}
+{% assign years = (1900..current_year) | reverse %}
 {% for y in years %}
+  {% capture year_entries %}{% bibliography -f papers -q @*[year={{y}} && preprint!=true && supplementary!=true]* %}{% endcapture %}
+  {% if year_entries contains '<li' %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}} && preprint!=true && supplementary!=true]* %}
+  {{ year_entries }}
+  {% endif %}
 {% endfor %}
 
 </div>
