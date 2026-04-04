@@ -5,7 +5,7 @@ title: Publications
 description: 
 years: []
 nav: true
-navigation_weight: 20
+navigation_weight: 30
 ---
 
 Only recent publications are listed here. The full list can be found in my [Google Scholar Link](https://scholar.google.com/citations?user=3TggrEkAAAAJ&hl=en).

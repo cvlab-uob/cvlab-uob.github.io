@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 description:
-nav: true
+nav: false
 navigation_weight: 15
 ---
             

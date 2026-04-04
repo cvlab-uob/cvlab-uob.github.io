@@ -4,120 +4,128 @@ permalink: /team/
 title: Team
 description: 
 nav: true
-navigation_weight: 30
+navigation_weight: 20
 ---
 
-**I lead the Human-Centered Vision and Learning (HCVL) Grounp at the University of Birmingham. I am fortunate to work or have worked with the following members:** 
+<style>
+    .team-cards .row {
+        margin-bottom: 0.8rem;
+    }
 
----
+    .team-cards p {
+        margin: 0 0 0.2rem;
+    }
 
-<section>
-  <h4><strong>Staff</strong></h4>
+    .team-cards .col-sm-6.clearfix {
+        padding-right: 1.4rem;
+        min-height: 228px;
+    }
+
+    .team-cards img.img-responsive {
+        width: 170px;
+        height: 170px;
+        object-fit: cover;
+        border-radius: 50%;
+        float: left;
+        margin-right: 1rem;
+        margin-top: 0.1rem;
+        border: 2px solid rgba(255, 255, 255, 0.96);
+        box-shadow:
+            0 14px 24px rgba(0, 0, 0, 0.18),
+            0 6px 10px rgba(0, 0, 0, 0.12),
+            inset 0 1px 0 rgba(255, 255, 255, 0.45);
+        transform: perspective(900px) translateZ(0);
+        transition: transform 0.22s ease, box-shadow 0.22s ease;
+    }
+
+    .team-cards img.img-responsive:hover {
+        transform: perspective(900px) translateY(-3px) scale(1.02);
+        box-shadow:
+            0 20px 30px rgba(0, 0, 0, 0.22),
+            0 9px 14px rgba(0, 0, 0, 0.15),
+            inset 0 1px 0 rgba(255, 255, 255, 0.5);
+    }
+
+    .team-cards h4 {
+        margin: 0 0 0.3rem;
+        font-size: 1.25rem;
+        font-weight: 700;
+        line-height: 1.2;
+        letter-spacing: 0.01em;
+    }
+
+    .team-cards i {
+        display: block;
+        font-style: normal;
+        line-height: 1.5;
+        margin-bottom: 0.35rem;
+        color: #4a4a4a;
+    }
+
+    .team-cards .research-topics {
+        margin: 0.35rem 0 0;
+        padding-left: 1.1rem;
+        line-height: 1.5;
+    }
+
+    .team-cards .research-topics li {
+        margin-bottom: 0.18rem;
+    }
+
+    @media (max-width: 767px) {
+        .team-cards .col-sm-6.clearfix {
+            min-height: 0;
+            margin-bottom: 1.3rem;
+            padding-right: 0;
+        }
+
+        .team-cards .row {
+            margin-bottom: 0.2rem;
+        }
+
+        .team-cards img.img-responsive {
+            width: 136px;
+            height: 136px;
+            margin-right: 0.9rem;
+        }
+
+        .team-cards h4 {
+            font-size: 1.14rem;
+        }
+    }
+</style>
+
+<section class="team-cards">
     <div class="row">
         <div class="col-sm-6 clearfix">
-            <img src="/assets/img/team/HJ.png" class="img-responsive" width="40%" style="float: left; border-radius: 170px;">
+            <img src="/assets/img/team/HJ.png" class="img-responsive" width="40%" style="float: left;">
             <h4><a href="/">
                 <b>Hyung Jin Chang</b>
             </a></h4>
             <i>
             <b>Associate Professor</b><br>
-            <a href="mailto:H.J.Chang@bham.ac.uk" class="email" data-addr="KKaaqpMwICWe8TAlMLI=">H.J.Chang@bham.ac.uk</a><br>
+            <a href="mailto:H.J.Chang@bham.ac.uk" class="email" data-addr="KKaaqpMwICWe8TAlMLI=">Email</a><br>
             </i>
             <ul class="research-topics" style="overflow: hidden">
-            <li>Postdoc @ Imperial College London</li>
-            <li>PhD @ Seoul National University</li>
-            <li>Computer vision</li>
+            <li>Computer Vision</li>
             <li>Robotics</li>
             </ul>
         </div>
-        <!-- <div class="col-sm-6 clearfix">
-            <img src="/assets/img/prof_pic.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="https://scholar.google.com/citations?user=a8Eqtv0AAAAJ&amp;hl=en">
-                Fabrizio Pedersoli<span class="hover-icon"><svg height="16" class="octicon octicon-link-external octicon octicon-link-external" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path></svg></span>
-            </a></h4>
-            <i>
-            <b>Postdoc</b><br>
-            email: <a href="" class="email-blurred" data-addr="7WOub67hkzAgJZ7xMCUwsg==
-        ">atosspcljinijphe</a><br>
-            </i>
-            <ul class="research-topics" style="overflow: hidden">
-            <li>Audio-video processing</li>
-            <li>Music information retreival</li>
-            </ul>
-        </div> -->
-    </div>
-</section>
-
----
-
-<section>
-  <h4><strong>PhD Students</strong></h4>
-    <div class="row">
         <div class="col-sm-6 clearfix">
-            <img src="/assets/img/team/Nora.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="https://horanyinora.github.io/">
-                <b>Nora Horanyi</b>
+            <img src="https://www.yihua.zone/images/yihua.png" class="img-responsive" width="40%" style="float: left">
+            <h4><a href="https://www.yihua.zone/">
+                <b>Yihua Cheng</b>
             </a></h4>
             <i>
-            <b>Ph.D Student</b><br>
-            <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%6E%2E%68%6F%72%61%6E%79%69%40%70%67%72%2E%62%68%61%6D%2E%61%63%2E%75%6B">Email address</a><br>
+            <b>Postdoctoral Fellow</b><br>
+            <a href="https://www.yihua.zone/">Homepage</a><br>
             </i>
             <ul class="research-topics" style="overflow: hidden">
-            <li>M.Sc. @ University of Szeged</li>
-            <li>Human Attention Estimation</li>
-            <li>Gaze Estimation</li>
-            </ul>
-        </div>
-            <div class="col-sm-6 clearfix">
-            <img src="/assets/img/team/Linfang.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="/team/linfang">
-                <b>Linfang Zheng</b>
-            </a></h4>
-            <i>
-            <b>Ph.D Student (With SUST)</b><br>
-            <a href="mailto:LXZ948@student.bham.ac.uk" class="email" data-addr="KKaaqpMwICWe8TAlMLI=">LXZ948@student.bham.ac.uk</a><br>
-            </i>
-            <ul class="research-topics" style="overflow: hidden">
-            <li>M.Sc. @ Harbin Institute of Technology</li>
-            <li>Robust Object 6D Pose Estimation</li>
-            <li>Object Manipulationn</li>
+            <li>Computer Vision and Human-Computer Interaction</li>
+            <li>Autonomous Driving</li>
             </ul>
         </div>
     </div>
-    <p></p>
-    <div class="row">
-        <div class="col-sm-6 clearfix">
-            <img src="/assets/img/team/Elden.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="/team/elden">
-                <b>Tze Ho Elden Tse</b>
-            </a></h4>
-            <i>
-            <b>Ph.D Student</b><br>
-            <a href="mailto:TXT994@student.bham.ac.uk" class="email" data-addr="KKaaqpMwICWe8TAlMLI=">TXT994@student.bham.ac.uk</a><br>
-            </i>
-            <ul class="research-topics" style="overflow: hidden">
-            <li>M.Eng. @ University of Oxford</li>
-            <li>3D Hand-Object Reconstruction</li>
-            <li>Graph Neural Network </li>
-            </ul>
-        </div>
-            <div class="col-sm-6 clearfix">
-            <img src="/assets/img/team/Hengfei.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="https://hengfei-wang.github.io//github.io/">
-                <b>Hengfei Wang</b>
-            </a></h4>
-            <i>
-            <b>Ph.D Student</b><br>
-            <a href="mailto:HXW080@student.bham.ac.uk" class="email" data-addr="KKaaqpMwICWe8TAlMLI=">HXW080@student.bham.ac.uk</a><br>
-            </i>
-            <ul class="research-topics" style="overflow: hidden">
-            <li>M.Sc. @ Tsinghua University</li>
-            <li>Gaze Estimation</li>
-            <li>NeRF</li>
-            </ul>
-        </div>
-    </div>
-    <p></p>
     <div class="row">
         <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/Esha.jpg" class="img-responsive" width="40%" style="float: left">
@@ -125,98 +133,75 @@ navigation_weight: 30
                 <b>Esha Dasgupta</b>
             </a></h4>
             <i>
-            <b>Ph.D Student</b><br>
-            <a href="mailto:EXD949@student.bham.ac.uk" class="email" data-addr="KKaaqpMwICWe8TAlMLI=">EXD949@student.bham.ac.uk</a><br>
+            <b>PhD Student</b><br>
+            <a href="mailto:EXD949@student.bham.ac.uk" class="email" data-addr="KKaaqpMwICWe8TAlMLI=">Email</a><br>
             </i>
             <ul class="research-topics" style="overflow: hidden">
-            <li>M.Sc. @ University of Cambridge</li>
             <li>3D Human Posture Estimation</li>
-            <li>Musculoskeletal Regression </li>
+            <li>Musculoskeletal Regression</li>
             </ul>
         </div>
-            <div class="col-sm-6 clearfix">
-            <img src="/assets/img/team/Zhongqun.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="/team/zhongqun">
-                <b>Zhongqun Zhang</b>
-            </a></h4>
-            <i>
-            <b>Ph.D Student</b><br>
-            <a href="mailto:ZXZ064@student.bham.ac.uk" class="email" data-addr="KKaaqpMwICWe8TAlMLI=">ZXZ064@student.bham.ac.uk</a><br>
-            </i>
-            <ul class="research-topics" style="overflow: hidden">
-            <li>M.Sc. @ Tongji University</li>
-            <li>3D Hand-Object Pose Estimation</li>
-            <li>Limited Supervision</li>
-            </ul>
-        </div>
-    </div>
-    <p></p>
-    <div class="row">
         <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/Jonathan.jpg" class="img-responsive" width="40%" style="float: left">
             <h4><a href="/team/jonathan">
                 <b>Jonathan Freer</b>
             </a></h4>
             <i>
-            <b>Ph.D Student</b><br>
-            <a href="mailto:JXF782@student.bham.ac.uk" class="email" data-addr="KKaaqpMwICWe8TAlMLI=">JXF782@student.bham.ac.uk</a><br>
+            <b>PhD Student</b><br>
+            <a href="mailto:JXF782@student.bham.ac.uk" class="email" data-addr="KKaaqpMwICWe8TAlMLI=">Email</a><br>
             </i>
             <ul class="research-topics" style="overflow: hidden">
-            <li>M.Sc. @ University of Birmingham</li>
-            <li>Novel View Synthesis </li>
+            <li>Novel View Synthesis</li>
             <li>NeRF</li>
             </ul>
-        <!-- </div>
-            <div class="col-sm-6 clearfix">
-            <img src="/assets/img/team/Jinyu.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="https://zhongqunzhang.github.io/">
-                Zhongqun Zhang<span class="hover-icon"><svg height="16" class="octicon octicon-link-external" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path></svg></span>
-            </a></h4>
-            <i>
-            <a href="mailto:ZXZ064@student.bham.ac.uk" class="email" data-addr="KKaaqpMwICWe8TAlMLI=">ZXZ064@student.bham.ac.uk</a><br>
-            </i>
-            <ul class="research-topics" style="overflow: hidden">
-            <li>From Tongji University, China</li>
-            <li>3D Hand-Object Pose Estimation</li>
-            <li>6D Object Pose Estimation</li>
-            </ul> -->
         </div>
     </div>
-</section>
-
----
-
-<section>
-  <h4> <strong>Research Assistant</strong></h4>
-  <div class="row">
+    <p></p>
+    <div class="row">
         <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/Yuqi.jpg" class="img-responsive" width="40%" style="float: left">
             <h4><a href="/team/yuqi">
                 <b>Yuqi Hou</b>
             </a></h4>
             <i>
-            <b>Research Assistant</b><br>
-            <a href="mailto:JXF782@student.bham.ac.uk" class="email" data-addr="KKaaqpMwICWe8TAlMLI=">JXF782@student.bham.ac.uk</a><br>
+            <b>PhD Student</b><br>
+            <a href="mailto:JXF782@student.bham.ac.uk" class="email" data-addr="KKaaqpMwICWe8TAlMLI=">Email</a><br>
             </i>
             <ul class="research-topics" style="overflow: hidden">
-            <li>M.Sc. @ University of Birmingham</li>
-            <li>Eye Gaze Tracking </li>
+            <li>Eye Gaze Tracking</li>
             <li>Deep Learning</li>
             </ul>
-        <!-- </div>
-            <div class="col-sm-6 clearfix">
-            <img src="/assets/img/team/Jinyu.jpg" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="https://zhongqunzhang.github.io/">
-                Zhongqun Zhang<span class="hover-icon"><svg height="16" class="octicon octicon-link-external" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path></svg></span>
+        </div>
+        <div class="col-sm-6 clearfix">
+            <img src="/assets/img/team/Zhuo.png" class="img-responsive" width="40%" style="float: left">
+            <h4><a href="/publications/">
+                <b>Zhuo Chen</b>
             </a></h4>
             <i>
-            <a href="mailto:ZXZ064@student.bham.ac.uk" class="email" data-addr="KKaaqpMwICWe8TAlMLI=">ZXZ064@student.bham.ac.uk</a><br>
+            <b>PhD Student</b><br>
+            <span>Email</span><br>
             </i>
             <ul class="research-topics" style="overflow: hidden">
-            <li>From Tongji University, China</li>
-            <li>3D Hand-Object Pose Estimation</li>
-            <li>6D Object Pose Estimation</li>
-            </ul> -->
+            <li>RGB-Infrared Image Fusion and Segmentation</li>
+            <li>3D Contact Modeling for Grasp Generation</li>
+            </ul>
+        </div>
+    </div>
+    <p></p>
+    <div class="row">
+        <div class="col-sm-6 clearfix">
+            <img src="/assets/img/team/Shijing.jpg" class="img-responsive" width="40%" style="float: left">
+            <h4><a href="/publications/">
+                <b>Shijing Wang</b>
+            </a></h4>
+            <i>
+            <b>PhD Student</b><br>
+            <span>Email</span><br>
+            </i>
+            <ul class="research-topics" style="overflow: hidden">
+            <li>Gaze Following</li>
+            <li>Vision-Language Models</li>
+            </ul>
         </div>
     </div>
 </section>
@@ -271,16 +256,16 @@ navigation_weight: 30
                 <tr>
                     <th>Name</th>
                     <th>Role</th>
-                    <th>Dates</th>
+                    <th>Period</th>
                     <th>Current Position</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><strong>Hengfei Wang</strong></td>
-                    <td>Postdoc</td>
-                    <td>03/2025 - Present</td>
-                    <td>PostDoc researcher, EPFL</td>
+                    <td>PhD Student & PostDoc</td>
+                    <td>09/2020 - 05/2025</td>
+                    <td>PostDoc researcher, EPFL, Switzerland</td>
                 </tr>
                 <tr>
                     <td><strong>Jeongho Lee</strong></td>
@@ -344,7 +329,7 @@ navigation_weight: 30
                 </tr>
                 <tr>
                     <td><strong>Bo Eun Kim</strong></td>
-                    <td>Postdoc</td>
+                    <td>Postdoc (Visiting Researcher funded by KETI)</td>
                     <td>04/2024 - 02/2025</td>
                     <td>Assistant Professor, Dankook University, South Korea</td>
                 </tr>

@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description:
-nav: false
+nav: true
 navigation_weight: 40
 ---
 

@@ -3,7 +3,7 @@ layout: page
 permalink: /contact/
 title: Contact
 #description: 
-nav: false
+nav: true
 navigation_weight: 70
 ---
 Dr Hyung Jin Chang (장형진 張亨鎭)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Others
-nav: true
+nav: false
 dropdown: true
 navigation_weight: 60
 children: 
