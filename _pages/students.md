@@ -93,6 +93,11 @@ navigation_weight: 20
             font-size: 1.14rem;
         }
     }
+
+    .table td, .table th {
+        padding: 0.25rem 0.5rem;
+        line-height: 0.1;
+    }
 </style>
 
 <section class="team-cards">
@@ -122,7 +127,7 @@ navigation_weight: 20
             </i>
             <ul class="research-topics" style="overflow: hidden">
             <li>Computer Vision and Human-Computer Interaction</li>
-            <li>Autonomous Driving</li>
+            <li>Gaze Research</li>
             </ul>
         </div>
     </div>
@@ -182,7 +187,7 @@ navigation_weight: 20
             <span>Email</span><br>
             </i>
             <ul class="research-topics" style="overflow: hidden">
-            <li>RGB-Infrared Image Fusion and Segmentation</li>
+            <li>Hand-Object Interaction</li>
             <li>3D Contact Modeling for Grasp Generation</li>
             </ul>
         </div>
@@ -212,19 +217,16 @@ navigation_weight: 20
   <h4> <strong>Co-supervising PhD Students</strong></h4>
   <ul>
         <li>
-            <a href="https://scholar.google.com/citations?hl=en&user=Wv68qZwAAAAJ"  target="_blank"><strong>Wei Chen</strong></a>. (Co-supervising with Prof. Ales Leonardis)
+            <a href=""  target="_blank"><strong>Oluwatofunmi Akintaro</strong></a>. (Co-supervision with Dr. Jianbo Jiao)
         </li>
         <li>
-            <a href=""  target="_blank"><strong>Haiyang Chen</strong></a>. (Co-supervising with Prof. Andrew Howes)
+            <a href=""  target="_blank"><strong>Han Hu</strong></a>. (Co-supervision with Dr. Jianbo Jiao)
         </li>
         <li>
-            <a href=""  target="_blank"><strong>Dalal Khalid F Aljasem </strong></a>. (Co-supervising with Prof. Andrew Howes)
+            <a href=""  target="_blank"><strong>Alexandru Popa</strong></a>. (Co-supervision with Dr. Shan He)
         </li>
         <li>
-            <a href=""  target="_blank"><strong>Emma Maria Rengers</strong></a>. (Co-supervising with Prof. Karen Yeung)
-        </li>
-        <li>
-            <a href="https://scholar.google.com/citations?hl=en&user=iq5N7JgAAAAJ"  target="_blank"><strong>Jinyu Yang</strong></a>. (Co-supervising with Prof. Ales Leonardis)
+            <a href=""  target="_blank"><strong>Anselmo Parnada</strong></a>. (Co-supervision with Dr. Yongjing Wang)
         </li>
   </ul>
 </section>
@@ -232,10 +234,19 @@ navigation_weight: 20
 ---
 
 <section>
-  <h4> <strong>Visiting Academics</strong></h4>
+  <h4> <strong>Current Visiting Researchers</strong></h4>
   <ul>
         <li>
-            <a href="https://scholar.google.com/citations?hl=en&user=SXxvdboAAAAJ"  target="_blank"><strong>Jaemin Na</strong></a>, (from Ajou University, South Korea).
+            <a href=""  target="_blank"><strong>Prof. Wonpyo Lee</strong></a>, (sabbatical visit from Joseon University, South Korea).
+        </li>
+        <li>
+            <a href=""  target="_blank"><strong>Ms. Hana Lee</strong></a>, (from the Korean Government).
+        </li>
+        <li>
+            <a href=""  target="_blank"><strong>Mr. ByeongMin Tae</strong></a>, (from the Korean Government).
+        </li>
+        <li>
+            <a href=""  target="_blank"><strong>Mr. Jihoon Lim</strong></a>, (from Seoul Economics).
         </li>
   </ul>
 </section>
@@ -261,12 +272,45 @@ navigation_weight: 20
                 </tr>
             </thead>
             <tbody>
+                <!-- PostDoc -->
                 <tr>
                     <td><strong>Hengfei Wang</strong></td>
                     <td>PhD Student & PostDoc</td>
                     <td>09/2020 - 05/2025</td>
                     <td>PostDoc researcher, EPFL, Switzerland</td>
                 </tr>
+                <tr>
+                    <td><strong>Bo Eun Kim</strong></td>
+                    <td>Postdoc (Visiting Researcher funded by KETI)</td>
+                    <td>04/2024 - 02/2025</td>
+                    <td>Assistant Professor, Dankook University, South Korea</td>
+                </tr>
+                <!-- PhD Student -->
+                <tr>
+                    <td><strong>Zhongqun Zhang</strong></td>
+                    <td>PhD Student</td>
+                    <td>04/2021 - 06/2025</td>
+                    <td>Assistant Professor, Nankai University, China</td>
+                </tr>
+                <tr>
+                    <td><strong>Linfang Zheng</strong></td>
+                    <td>PhD Student</td>
+                    <td>01/2020 - 10/2024</td>
+                    <td>PostDoc researcher, University of Hong Kong, China</td>
+                </tr>
+                <tr>
+                    <td><strong>Tze Ho Elden Tse</strong></td>
+                    <td>PhD Student</td>
+                    <td>02/2020 - 06/2024</td>
+                    <td>PostDoc researcher, NUS, Singapore</td>
+                </tr>
+                <tr>
+                    <td><strong>Nora Horanyi</strong></td>
+                    <td>PhD Student</td>
+                    <td>10/2018 - 05/2023</td>
+                    <td>Senior Machine Learning Specialist, JBA Risk Management, UK</td>
+                </tr>
+                <!-- PhD Student (Visiting) -->
                 <tr>
                     <td><strong>Jeongho Lee</strong></td>
                     <td>PhD Student (Visiting)</td>
@@ -278,30 +322,6 @@ navigation_weight: 20
                     <td>PhD Student (Visiting)</td>
                     <td>12/2024 - 03/2025</td>
                     <td>KwangWoon University, South Korea</td>
-                </tr>
-                <tr>
-                    <td><strong>Hopyeong Hwang</strong></td>
-                    <td>Visiting Researcher (Visiting)</td>
-                    <td>12/2024 - 11/2025</td>
-                    <td>Korea Disease Control and Prevention Agency, South Korea</td>
-                </tr>
-                <tr>
-                    <td><strong>Jongsu Youn</strong></td>
-                    <td>PhD Student (Visiting)</td>
-                    <td>10/2024 - 11/2024</td>
-                    <td>PhD Student, Chung-Ang University, South Korea</td>
-                </tr>
-                <tr>
-                    <td><strong>SeungMo Seo</strong></td>
-                    <td>PhD Student (Visiting)</td>
-                    <td>10/2024 - 11/2024</td>
-                    <td>PhD Student, Chung-Ang University, South Korea</td>
-                </tr>
-                <tr>
-                    <td><strong>Uyoung Jeong</strong></td>
-                    <td>PhD Student (Visiting)</td>
-                    <td>09/2024 - 12/2024</td>
-                    <td>PhD Student, UNIST, South Korea</td>
                 </tr>
                 <tr>
                     <td><strong>YoungChan Choi</strong></td>
@@ -316,10 +336,22 @@ navigation_weight: 20
                     <td>DanKook University, South Korea</td>
                 </tr>
                 <tr>
-                    <td><strong>Seungryul Baek</strong></td>
-                    <td>Research visit</td>
-                    <td>07/2024 - 08/2024</td>
-                    <td>Associate Professor, UNIST, South Korea</td>
+                    <td><strong>Uyoung Jeong</strong></td>
+                    <td>PhD Student (Visiting)</td>
+                    <td>09/2024 - 12/2024</td>
+                    <td>PhD Student, UNIST, South Korea</td>
+                </tr>
+                <tr>
+                    <td><strong>Jongsu Youn</strong></td>
+                    <td>PhD Student (Visiting)</td>
+                    <td>10/2024 - 11/2024</td>
+                    <td>PhD Student, Chung-Ang University, South Korea</td>
+                </tr>
+                <tr>
+                    <td><strong>SeungMo Seo</strong></td>
+                    <td>PhD Student (Visiting)</td>
+                    <td>10/2024 - 11/2024</td>
+                    <td>PhD Student, Chung-Ang University, South Korea</td>
                 </tr>
                 <tr>
                     <td><strong>Jeonghan Lee</strong></td>
@@ -328,10 +360,47 @@ navigation_weight: 20
                     <td></td>
                 </tr>
                 <tr>
-                    <td><strong>Bo Eun Kim</strong></td>
-                    <td>Postdoc (Visiting Researcher funded by KETI)</td>
-                    <td>04/2024 - 02/2025</td>
-                    <td>Assistant Professor, Dankook University, South Korea</td>
+                    <td><strong>Jiho Park</strong></td>
+                    <td>MSc Student (Visiting)</td>
+                    <td>09/2022 - 12/2022</td>
+                    <td>PhD Student, Dongguk University, South Korea</td>
+                </tr>
+                <tr>
+                    <td><strong>Sanghun Kim</strong></td>
+                    <td>MSc Student (Visiting)</td>
+                    <td>09/2022 - 12/2022</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td><strong>Jaemin Na</strong></td>
+                    <td>PhD Student (Visiting)</td>
+                    <td>10/2021 - 03/2022</td>
+                    <td>Senior Research Engineer, Vision AI Research Department, KT AI2X Lab</td>
+                </tr>
+                <tr>
+                    <td><strong>Taehoon Kim</strong></td>
+                    <td>PhD Student (Visiting)</td>
+                    <td>10/2021 - 03/2022</td>
+                    <td>Ajou University, South Korea</td>
+                </tr>
+                <tr>
+                    <td><strong>John Yang</strong></td>
+                    <td>PhD Student (Visiting)</td>
+                    <td>09/2019 - 12/2019</td>
+                    <td>Software Engineer, NVIDIA, USA</td>
+                </tr>
+                <!-- Visiting Researcher -->
+                <tr>
+                    <td><strong>Hopyeong Hwang</strong></td>
+                    <td>Visiting Researcher (Visiting)</td>
+                    <td>12/2024 - 11/2025</td>
+                    <td>Korea Disease Control and Prevention Agency, South Korea</td>
+                </tr>
+                <tr>
+                    <td><strong>Woochul Kim</strong></td>
+                    <td>Visiting Researcher (Visiting)</td>
+                    <td>08/2023 - 08/2025</td>
+                    <td>Ministry of Science and ICT, South Korea</td>
                 </tr>
                 <tr>
                     <td><strong>Ju Yong Chang</strong></td>
@@ -358,28 +427,16 @@ navigation_weight: 20
                     <td>Director, Human Resource Development Division, Ministry of Personnel Management, South Korea</td>
                 </tr>
                 <tr>
-                    <td><strong>Woochul Kim</strong></td>
-                    <td>Visiting Researcher (Visiting)</td>
-                    <td>08/2023 - 08/2025</td>
-                    <td>Ministry of Science and ICT, South Korea</td>
-                </tr>
-                <tr>
-                    <td><strong>Jiho Park</strong></td>
-                    <td>MSc Student (Visiting)</td>
-                    <td>09/2022 - 12/2022</td>
-                    <td>PhD Student, Dongguk University, South Korea</td>
+                    <td><strong>Seungryul Baek</strong></td>
+                    <td>Research visit</td>
+                    <td>07/2024 - 08/2024</td>
+                    <td>Associate Professor, UNIST, South Korea</td>
                 </tr>
                 <tr>
                     <td><strong>Bongkeun Choi</strong></td>
                     <td>Visiting Researcher</td>
                     <td>09/2022 - 08/2023</td>
                     <td>Director, Ministry of Health and Welfare (MOHW), South Korea</td>
-                </tr>
-                <tr>
-                    <td><strong>Sanghun Kim</strong></td>
-                    <td>MSc Student (Visiting)</td>
-                    <td>09/2022 - 12/2022</td>
-                    <td></td>
                 </tr>
                 <tr>
                     <td><strong>Yongsoo Baek</strong></td>
@@ -394,52 +451,16 @@ navigation_weight: 20
                     <td>Assistant Director, General Services and Personnel Division, Ministry of Trade, Industry and Energy, South Korea</td>
                 </tr>
                 <tr>
-                    <td><strong>Jaemin Na</strong></td>
-                    <td>PhD Student (Visiting)</td>
-                    <td>10/2021 - 03/2022</td>
-                    <td>Senior Research Engineer, Vision AI Research Department, KT AI2X Lab</td>
-                </tr>
-                <tr>
-                    <td><strong>Taehoon Kim</strong></td>
-                    <td>PhD Student (Visiting)</td>
-                    <td>10/2021 - 03/2022</td>
-                    <td>Ajou University, South Korea</td>
-                </tr>
-                <tr>
                     <td><strong>Xuecheng Qi</strong></td>
                     <td>Research Assistant</td>
                     <td>09/2021 - 02/2022</td>
                     <td>HUAWEI</td>
                 </tr>
                 <tr>
-                    <td><strong>Zhongqun Zhang</strong></td>
-                    <td>PhD Student</td>
-                    <td>04/2021 - 06/2025</td>
-                    <td>Assistant Professor, Nankai University, China</td>
-                </tr>
-                <tr>
                     <td><strong>Jinwook Kim</strong></td>
                     <td>Sabbatical visit</td>
                     <td>02/2021 - 02/2022</td>
                     <td>Professor, Chung-Ang University, South Korea</td>
-                </tr>
-                <tr>
-                    <td><strong>Tze Ho Elden Tse</strong></td>
-                    <td>PhD Student</td>
-                    <td>02/2020 - 06/2024</td>
-                    <td>PostDoc researcher, NUS, Singapore</td>
-                </tr>
-                <tr>
-                    <td><strong>Linfang Zheng</strong></td>
-                    <td>PhD Student</td>
-                    <td>01/2020 - 10/2024</td>
-                    <td>PostDoc researcher, University of Hong Kong, China</td>
-                </tr>
-                <tr>
-                    <td><strong>John Yang</strong></td>
-                    <td>PhD Student (Visiting)</td>
-                    <td>09/2019 - 12/2019</td>
-                    <td>Software Engineer, NVIDIA, USA</td>
                 </tr>
                 <tr>
                     <td><strong>HyunChul Sim</strong></td>
@@ -452,12 +473,6 @@ navigation_weight: 20
                     <td>Research Assistant</td>
                     <td>01/2019 - 12/2020</td>
                     <td></td>
-                </tr>
-                <tr>
-                    <td><strong>Nora Horanyi</strong></td>
-                    <td>PhD Student</td>
-                    <td>10/2018 - 05/2023</td>
-                    <td>Senior Machine Learning Specialist, JBA Risk Management, UK</td>
                 </tr>
                 <tr>
                     <td><strong>Yixing Gao</strong></td>

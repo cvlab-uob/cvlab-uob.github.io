@@ -73,6 +73,9 @@ contact_note: >
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
+goatcounter_code: hjchang # your GoatCounter site code
+goatcounter_api_token: YOURTOKEN # GoatCounter API token (read-only, for dashboard)
+analytics_password: cvlab2026 # password for the private analytics page
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -246,6 +249,7 @@ jekyll-diagrams:
 
 enable_google_analytics:    false  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
+enable_goatcounter:         true   # enables GoatCounter analytics
 enable_mansory:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
