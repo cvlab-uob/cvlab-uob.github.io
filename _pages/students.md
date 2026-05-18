@@ -330,8 +330,8 @@ navigation_weight: 20
 
   <h5><strong>Research Assistants & Teaching Fellows</strong></h5>
   <ul>
-    <li>Xuecheng Qi (09/2021 - 02/2022, now Research Assistant, HUAWEI)</li>
-    <li>Daniel Varnai (01/2019 - 12/2020, now Research Assistant)</li>
+    <li>Xuecheng Qi (09/2021 - 02/2022)</li>
+    <li>Daniel Varnai (01/2019 - 12/2020)</li>
     <li>Yuming Chen (Research Assistant)</li>
   </ul>
 </section>
