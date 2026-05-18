@@ -26,4 +26,13 @@ I am an Associate Professor of the [School of Computer Science](https://www.birm
 
 My research focuses on Human-Centred Artificial Intelligence, with a particular emphasis on enabling machines to understand, learn from, and interact with humans in the physical world. I develop methods at the intersection of computer vision, machine learning, and robotics, aiming to advance technologies such as human behaviour understanding, gaze and attention modelling, and human-robot interaction. My work seeks to build AI systems that can perceive and reason about people more naturally, ultimately enabling more intuitive and effective collaboration between humans and intelligent machines.
 
-**I am always looking for fully motivated & talented PhD students!** 
+**I am always looking for fully motivated & talented PhD students!**
+
+<div style="margin-top: 1rem; padding: 1rem 1.2rem; border-left: 4px solid #dc3545; background: #fff5f5; border-radius: 4px;">
+  <p style="margin: 0 0 0.4rem; font-weight: 700; color: #dc3545;">
+    📢 Highlight: Marie Skłodowska-Curie Postdoctoral Fellowship (MSCA PF)
+  </p>
+  <p style="margin: 0;">
+    I welcome enquiries from outstanding PhD students or recent graduates interested in applying for an <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" target="_blank"><strong>MSCA Postdoctoral Fellowship</strong></a> to work with me on topics in <strong>computer vision, AI, robotics, and human-robot interaction (HRI)</strong>. If you are considering a postdoctoral position abroad in these areas, please feel free to <a href="mailto:h.j.chang@bham.ac.uk">get in touch</a>.
+  </p>
+</div>

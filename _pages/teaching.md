@@ -7,6 +7,8 @@ nav: true
 navigation_weight: 40
 ---
 
+> **Notice (2025–26 academic year):** Dr. Hyung Jin Chang is on sabbatical leave during the 2025–26 academic year and will **not** be delivering lectures or supervising MSc projects this year. **Final Year Project supervision will resume from October 2026.**
+
 ### Lecture
 - 2019/20 [06-25024] Robot Vision
 - 2018/19 [06-25024] Robot vision
