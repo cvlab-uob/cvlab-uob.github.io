@@ -199,13 +199,46 @@ navigation_weight: 20
                 <b>Shijing Wang</b>
             </a></h4>
             <i>
-            <b>PhD Student</b><br>
+            <b>Visiting PhD Student</b><br>
+            Beijing Jiaotong University, China<br>
             <a href="mailto:sxw1350@student.bham.ac.uk" class="email" data-addr="KKaaqpMwICWe8TAlMLI=">Email</a><br>
             </i>
             <ul class="research-topics" style="overflow: hidden">
             <li>Gaze Following</li>
             <li>Vision-Language Models</li>
             </ul>
+        </div>
+        <div class="col-sm-6 clearfix">
+            <img src="/assets/img/team/JunYeongPark.png" class="img-responsive" width="40%" style="float: left">
+            <h4>
+                <b>JunYeong Park</b>
+            </h4>
+            <i>
+            <b>Visiting PhD Student</b><br>
+            Dankook University, South Korea<br>
+            </i>
+        </div>
+    </div>
+    <p></p>
+    <div class="row">
+        <div class="col-sm-6 clearfix">
+            <img src="/assets/img/team/ChanghwanChoi.png" class="img-responsive" width="40%" style="float: left">
+            <h4>
+                <b>Changhwan Choi</b>
+            </h4>
+            <i>
+            <b>Visiting PhD Student</b><br>
+            Dankook University, South Korea<br>
+            </i>
+        </div>
+        <div class="col-sm-6 clearfix">
+            <img src="/assets/img/team/YujinLee.png" class="img-responsive" width="40%" style="float: left">
+            <h4>
+                <b>Yujin Lee</b>
+            </h4>
+            <i>
+            <b>Research Intern</b><br>
+            </i>
         </div>
     </div>
 </section>
