@@ -1,0 +1,37 @@
+<div class="col mb-3">
+  <a class="album-card" href="{{ album.url | relative_url }}">
+    <div class="card h-100 hoverable">
+      {% if album.cover %}
+        <div class="album-cover-wrapper">
+          <img src="{{ album.cover | relative_url }}" class="album-cover" alt="{{ album.title }}" loading="lazy">
+        </div>
+      {% endif %}
+      <div class="card-body">
+        <h3 class="album-title">{{ album.title }}</h3>
+        {% if album.date %}
+          <div class="album-date">
+            {% if album.end_date %}
+              {% assign start_year = album.date | date: "%Y" %}
+              {% assign end_year = album.end_date | date: "%Y" %}
+              {% assign start_month = album.date | date: "%B" %}
+              {% assign end_month = album.end_date | date: "%B" %}
+              {% if start_year == end_year and start_month == end_month %}
+                {{ album.date | date: "%B %-d" }}-{{ album.end_date | date: "%-d, %Y" }}
+              {% else %}
+                {{ album.date | date: "%B %-d, %Y" }} - {{ album.end_date | date: "%B %-d, %Y" }}
+              {% endif %}
+            {% else %}
+              {{ album.date | date: "%B %-d, %Y" }}
+            {% endif %}
+          </div>
+        {% endif %}
+        {% if album.location %}
+          <div class="album-location"><i class="fas fa-map-marker-alt"></i> {{ album.location }}</div>
+        {% endif %}
+        {% if album.description %}
+          <p class="album-desc">{{ album.description }}</p>
+        {% endif %}
+      </div>
+    </div>
+  </a>
+</div>

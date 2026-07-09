@@ -106,6 +106,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  gallery:
+    output: true
+    permalink: /gallery/:path/
 
 news_limit: 10
 
