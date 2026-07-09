@@ -12,7 +12,7 @@ navigation_weight: 45
   {% assign grouped = albums | group_by_exp: "a", "a.date | date: '%Y'" %}
   {% for group in grouped %}
     <h2 class="year">{{ group.name }}</h2>
-    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3 gallery-grid">
+    <div class="gallery-grid">
       {% for album in group.items %}
         {% include album_card.html album=album %}
       {% endfor %}

@@ -602,6 +602,17 @@ html.transition *:after {
     text-align: right;
   }
 
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .album-card-item {
+    min-width: 0;
+  }
+
   .album-card {
     color: inherit;
     text-decoration: none;
