@@ -35,11 +35,11 @@ layout: default
     {{ content }}
 
     {% if page.images %}
-    <div class="row g-2 album-photos">
+    <div class="album-photos">
       {% for img in page.images %}
         {% assign src = img.src | default: img %}
         {% assign caption = img.caption | default: "" %}
-        <div class="col-6 col-sm-4 col-md-3">
+        <div class="album-photo-item">
           <a class="album-photo" href="{{ src | relative_url }}" data-gallery="album" data-glightbox="title: {{ caption | escape }}">
             <img src="{{ src | relative_url }}" alt="{{ caption | escape }}" loading="lazy">
           </a>
