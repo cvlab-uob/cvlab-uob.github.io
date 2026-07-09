@@ -415,12 +415,16 @@ footer.sticky-bottom {
     }
   }
   h2.year {
-    color: var(--global-divider-color);
-    border-top: 1px solid var(--global-divider-color);
+    color: rgba(0, 0, 0, 0.55);
+    border-top: 1px solid rgba(0, 0, 0, 0.35);
     padding-top: 1rem;
     margin-top: 2rem;
     margin-bottom: -2rem;
     text-align: right;
+  }
+  html[data-theme='dark'] & h2.year {
+    color: rgba(255, 255, 255, 0.75);
+    border-top-color: rgba(255, 255, 255, 0.45);
   }
   ol.bibliography {
     list-style: none;
