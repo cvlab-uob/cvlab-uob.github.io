@@ -115,20 +115,6 @@ navigation_weight: 20
             <li>Director of HCVL</li>
             </ul>
         </div>
-        <div class="col-sm-6 clearfix">
-            <img src="https://www.yihua.zone/images/yihua.png" class="img-responsive" width="40%" style="float: left">
-            <h4><a href="https://www.yihua.zone/">
-                <b>Yihua Cheng</b>
-            </a></h4>
-            <i>
-            <b>Postdoctoral Fellow</b><br>
-            <a href="https://www.yihua.zone/">Homepage</a> | <a href="mailto:y.cheng.2@bham.ac.uk" class="email" data-addr="KKaaqpMwICWe8TAlMLI=">Email</a><br>
-            </i>
-            <ul class="research-topics" style="overflow: hidden">
-            <li>Computer Vision and Human-Computer Interaction</li>
-            <li>Gaze Research</li>
-            </ul>
-        </div>
     </div>
     <div class="row">
         <div class="col-sm-6 clearfix">
@@ -194,6 +180,20 @@ navigation_weight: 20
     <p></p>
     <div class="row">
         <div class="col-sm-6 clearfix">
+            <img src="/assets/img/team/chohyunjin.jpg" class="img-responsive" width="40%" style="float: left">
+            <h4><a href="https://chojinie.github.io/">
+                <b>Hyunjin Cho</b>
+            </a></h4>
+            <i>
+            <b>PhD Student</b><br>
+            <a href="https://chojinie.github.io/">Homepage</a> | <a href="mailto:hxc737@student.bham.ac.uk" class="email" data-addr="KKaaqpMwICWe8TAlMLI=">Email</a><br>
+            </i>
+            <ul class="research-topics" style="overflow: hidden">
+            <li>Human &amp; Hand Pose Estimation</li>
+            <li>Personalized Hand Modeling</li>
+            </ul>
+        </div>
+        <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/Shijing.jpg" class="img-responsive" width="40%" style="float: left">
             <h4><a href="/publications/">
                 <b>Shijing Wang</b>
@@ -208,6 +208,9 @@ navigation_weight: 20
             <li>Vision-Language Models</li>
             </ul>
         </div>
+    </div>
+    <p></p>
+    <div class="row">
         <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/JunYeongPark.png" class="img-responsive" width="40%" style="float: left">
             <h4>
@@ -218,9 +221,6 @@ navigation_weight: 20
             Dankook University, South Korea<br>
             </i>
         </div>
-    </div>
-    <p></p>
-    <div class="row">
         <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/ChanghwanChoi.png" class="img-responsive" width="40%" style="float: left">
             <h4>
@@ -231,6 +231,9 @@ navigation_weight: 20
             Dankook University, South Korea<br>
             </i>
         </div>
+    </div>
+    <p></p>
+    <div class="row">
         <div class="col-sm-6 clearfix">
             <img src="/assets/img/team/YujinLee.png" class="img-responsive" width="40%" style="float: left">
             <h4>
@@ -311,7 +314,8 @@ navigation_weight: 20
 
   <h5><strong>Post-doctoral Fellows</strong></h5>
   <ul>
-    <li>Bo Eun Kim (04/2024 - 02/2025, now Assistant Professor, Dankook University, South Korea)</li>
+    <li><a href="https://aivlab.pages.dev/faculty" target="_blank">Bo Eun Kim</a> (04/2024 - 02/2025, now Assistant Professor, Dankook University, South Korea)</li>
+    <li><a href="https://www.yihua.zone/" target="_blank">Yihua Cheng</a> (02/2023 - 07/2026, now Assistant Professor, Beijing Institute of Technology, China)</li>
     <li><a href="https://gaoyixing.wordpress.com/" target="_blank">Yixing Gao</a> (09/2020 - 09/2021, now Associate Professor, Jilin University, China)</li>    
   </ul>
 
@@ -330,7 +334,7 @@ navigation_weight: 20
     <li><a href="https://sites.google.com/view/sunghochun/home" target="_blank">Sungho Chun</a> (12/2024 - 03/2025, now Kwangwoon University, South Korea)</li>
     <li>YoungChan Choi (09/2024 - 02/2025, now Dankook University, South Korea)</li>
     <li>Jung Hoon Sung (09/2024 - 02/2025, now Dankook University, South Korea)</li>
-    <li><a href="https://uyoung-jeong.github.io/" target="_blank">Uyoung Jeong</a> (09/2024 - 12/2024, now PhD Student, UNIST, South Korea)</li>
+    <li><a href="https://uyoung-jeong.github.io/" target="_blank">Uyoung Jeong</a> (09/2024 - 12/2024, now Postdoc Researcher, UNIST, South Korea)</li>
     <li>Jongsu Youn (10/2024 - 11/2024, now PhD Student, Chung-Ang University, South Korea)</li>
     <li>SeungMo Seo (10/2024 - 11/2024, now PhD Student, Chung-Ang University, South Korea)</li>
     <li>Jeonghan Lee (07/2024 - 08/2024)</li>

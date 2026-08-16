@@ -10,6 +10,8 @@ navigation_weight: 50
 ### Important
 We are always looking for motivated and talented researchers and students to join our lab.
 
+If you are interested, please email us with your **CV and a brief research statement**. Please also state clearly whether you are **self-funded**, **already hold a scholarship**, **plan to apply for CSC funding**, or would like to discuss **applying for a scholarship with us**.
+
 ---
 
 ### Postdoc
@@ -83,5 +85,3 @@ Having a clear **scholarship or funding plan** is strongly preferred. Below are 
 **Other Funding Sources:**
 - [Alan Turing Institute Studentships](https://www.turing.ac.uk/work-turing/studentships) — For AI/data science research
 - Government-sponsored scholarships from your home country
-
-If you are interested, please email with your CV, transcripts, and a brief research statement.
