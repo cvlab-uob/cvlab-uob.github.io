@@ -275,13 +275,13 @@ navigation_weight: 20
             <a href=""  target="_blank"><strong>Prof. Wonpyo Lee</strong></a>, (sabbatical visit from Joseon University, South Korea).
         </li>
         <li>
-            <a href=""  target="_blank"><strong>Ms. Hana Lee</strong></a>, (from the Korean Government).
-        </li>
-        <li>
             <a href=""  target="_blank"><strong>Mr. ByeongMin Tae</strong></a>, (from the Korean Government).
         </li>
         <li>
-            <a href=""  target="_blank"><strong>Mr. Jihoon Lim</strong></a>, (from Seoul Economics).
+            <a href=""  target="_blank"><strong>Mr. Homin Lee</strong></a>, (from Gyeonggi Provincial Government, South Korea).
+        </li>
+        <li>
+            <a href=""  target="_blank"><strong>Ms. Jiyoun Moon</strong></a>, (from Chosun University, South Korea).
         </li>
   </ul>
 </section>
@@ -345,6 +345,8 @@ navigation_weight: 20
 
   <h5><strong>Visiting Researchers & Sabbatical Visitors</strong></h5>
   <ul>
+        <li>Jihoon Lim (08/2025 - 08/2026, now Seoul Economics, South Korea)</li>
+        <li>Hana Lee (07/2025 - 07/2026, now Ministry of the Interior and Safety, South Korea)</li>
     <li>Hopyeong Hwang (12/2024 - 11/2025, now Korea Disease Control and Prevention Agency, South Korea)</li>
     <li>Woochul Kim (08/2023 - 08/2025, now Ministry of Science and ICT, South Korea)</li>
     <li><a href="https://sites.google.com/site/juyongchang/" target="_blank">Ju Yong Chang</a> (03/2024 - 02/2025, now Professor, Kwangwoon University, South Korea)</li>
