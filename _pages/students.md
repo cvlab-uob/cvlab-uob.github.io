@@ -272,7 +272,7 @@ navigation_weight: 20
   <h4> <strong>Current Visiting Researchers</strong></h4>
   <ul>
         <li>
-            <a href=""  target="_blank"><strong>Prof. Wonpyo Lee</strong></a>, (sabbatical visit from Joseon University, South Korea).
+            <a href=""  target="_blank"><strong>Prof. Wonpyo Lee</strong></a>, (sabbatical visit from Chosun University, South Korea).
         </li>
         <li>
             <a href=""  target="_blank"><strong>Mr. ByeongMin Tae</strong></a>, (from the Korean Government).
